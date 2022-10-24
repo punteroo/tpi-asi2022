@@ -36,3 +36,25 @@ Para la confección del aplicativo hemos utilizado las siguientes tecnologías:
 - [TailwindCSS](https://tailwindcss.com/) - Framework de CSS para diseño de UX/UI dentro de React
 
 Hemos dejado comentarios y explicaciones dentro del repositorio sobre la implementación y función lógica de la aplicación.
+
+# Bootstrap
+
+Para instalar la aplicación y ejecutarla se clona el repositorio.
+```bash
+$ git clone https://github.com/punteroo/tpi-asi2022.git
+```
+
+Se instalan las dependencias.
+```bash
+$ npm install
+```
+
+Y se ejecuta la aplicación.
+```bash
+# Producción
+$ npm run build
+$ npm run start
+
+# Desarrollo
+$ npm run dev
+```
